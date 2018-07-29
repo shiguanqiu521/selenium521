@@ -22,6 +22,8 @@ public class loginCases {
         driver.switchTo().frame(e);
         doLogin.login(driver,"18269241305","sss5727658229");
         Thread.sleep(5000);
+
+        System.out.println("uer:shiguanqiu521"+"and"+"pwd:SGQSGQ12sgqsgq");
     }
 
 
