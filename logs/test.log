@@ -1,0 +1,7 @@
+2018-08-06 22:10:06,743 INFO main [log4j.testLog4j]info(line:35)这是info
+2018-08-06 22:10:06,748 WARN main [log4j.testLog4j]warn(line:43)这是warn
+2018-08-06 22:10:06,748 ERROR main [log4j.testLog4j]error(line:47)这是error
+2018-08-06 22:10:37,862 INFO main [log4j.testLog4j]info(line:35)这是info
+2018-08-06 22:10:37,868 DEBUG main [log4j.testLog4j]debug(line:39)这是debug
+2018-08-06 22:10:37,868 WARN main [log4j.testLog4j]warn(line:43)这是warn
+2018-08-06 22:10:37,868 ERROR main [log4j.testLog4j]error(line:47)这是error
